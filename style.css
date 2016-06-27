@@ -1,0 +1,18 @@
+.none {
+    display: inline-block;
+    width: 50px;
+    height: 46px;
+    background-image: url(sterzwart.png);
+}
+
+.none:hover {
+    cursor: pointer;
+    background-image: url(sterhover.png);
+}
+
+.none span {
+    display: inline-block;
+    width: 0px;
+    height: 46px;
+    background-image: url(ster.png);
+}
